@@ -3,6 +3,7 @@
 In [CVPR, 2020](https://arxiv.org/abs/2003.07064).
 [Osman Semih Kayhan](https://oskyhn.github.io/) and [Jan van Gemert](http://jvgemert.github.io/index.html). 
 
+You can find [the core](https://medium.com/@oskyhn_77789/current-convolutional-neural-networks-are-not-translation-equivariant-2f04bb9062e3) of the paper and the detailed explanation of [the experiments](https://medium.com/@oskyhn_77789/full-convolution-experiments-with-details-5a795971ffd3) in our blog.
 
 This repository contains the experiments of the paper.<br> 
 
